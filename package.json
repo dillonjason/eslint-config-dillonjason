@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dillonjason",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dillon Jason's personal eslint config",
   "main": "index.js",
   "files": [
